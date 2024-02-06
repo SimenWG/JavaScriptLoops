@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Protest+Strike&display=swap');
+
+*{ 
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Protest Strike', sans-serif;
+}
+
+
+.text {
+    font-family: 'Protest Strike', sans-serif;
+}
